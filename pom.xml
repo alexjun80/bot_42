@@ -48,16 +48,18 @@
         <dependency>
             <groupId>com.vdurmont</groupId>
             <artifactId>emoji-java</artifactId>
-            <version>3.3.0</version>
+            <version>5.1.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
-            <version>3.5</version>
+            <version>5.0.1</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <!-- НЕ УВЕРН ЧТО БУДУ ИСПОЛЬЗОВАТЬ -->
+        
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
