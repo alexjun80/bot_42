@@ -7,8 +7,9 @@ package ru.alexjun.bot_42;
 
 /**
  *
- * @author Professional
+ * @author 
  */
 public class botApp {
+ 
     
 }
